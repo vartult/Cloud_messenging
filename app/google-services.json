@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659555145815",
+    "firebase_url": "https://notifilogs.firebaseio.com",
+    "project_id": "notifilogs",
+    "storage_bucket": "notifilogs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659555145815:android:1940a1898515ae14",
+        "android_client_info": {
+          "package_name": "com.example.vartu.cloud_messenging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659555145815-r64oddrvjkgj3oehaqnqbqag2jmku75d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vartu.cloud_messenging",
+            "certificate_hash": "2fc7d7efb7b72efc521795b549ad238983a5dc46"
+          }
+        },
+        {
+          "client_id": "659555145815-7q3q8864p9nljhouq09krmdr7mthkd0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNvaSYw9sAy913U8Mids7LQmTqGjyOpkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659555145815-7q3q8864p9nljhouq09krmdr7mthkd0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
